@@ -7,7 +7,11 @@ requires-python = ">=3.13"
 dependencies = [
     "altair>=6.0.0",
     "altitude-sdk>=2.0.8",
+    "folium>=0.12",
+    "geopandas>=1.2.0",
     "ipykernel>=7.2.0",
+    "mapclassify>=2.11.0",
+    "matplotlib>=3.10.8",
     "polars>=1.38.1",
     "seaborn>=0.13.2",
 ]
